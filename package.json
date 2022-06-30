@@ -1,0 +1,26 @@
+{
+  "name": "100m-mens-ranking---nodejs--express--mongoose-and-mongodb",
+  "version": "1.0.0",
+  "description": "100m Mens Ranking - NodeJS, Express, Mongoose and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node src/app.js",
+    "dev" : "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohitakshsingla0/100m-Mens-Ranking---NodeJS--Express--Mongoose-and-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lohitakshsingla0/100m-Mens-Ranking---NodeJS--Express--Mongoose-and-MongoDB/issues"
+  },
+  "homepage": "https://github.com/lohitakshsingla0/100m-Mens-Ranking---NodeJS--Express--Mongoose-and-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  }
+}
